@@ -48,7 +48,7 @@ Facebook-esk friending website.
     ```
 
 ## Database Models
-![db_models_diagram](./DB_Model.jpg)
+![db_models_diagram](./DB_Model.jpg) 
 
 ## React Component Diagram
 ![react_component_diagram](./Component_Design.jpg)
